@@ -1,0 +1,17 @@
+.cell{
+    border: 1px solid black;
+
+    height: 100px;
+    width: 100px;
+    font-size:50px ;
+    text-align: center;
+}
+
+#pole{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+
+}
+
+
